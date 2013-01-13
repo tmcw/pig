@@ -25,6 +25,7 @@ img { width:100%; }
 div.slide {
   padding:10%;
   box-sizing:border-box;
+  -moz-box-sizing:border-box;
   cursor:pointer;
   cursor:hand;
   font-size:40px;
